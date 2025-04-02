@@ -6,6 +6,7 @@
 Плата - STM32F3 Discovery
 
 Настройка PUTTY: 
+
 ![image](https://github.com/user-attachments/assets/24938268-a9eb-4865-830f-4af111c874b2)
 
 ![image](https://github.com/user-attachments/assets/bcf2f288-7919-40dd-b9a6-ad9a4695e92c)
