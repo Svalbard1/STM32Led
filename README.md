@@ -29,7 +29,7 @@
 
 Пример использования:
 
-         <video src='https://1024terabox.com/s/11a-lcMxTFd21W8mfyAjHXQ' width=180/>
+<video src='https://1024terabox.com/s/11a-lcMxTFd21W8mfyAjHXQ' width=180/>
 
 
 
