@@ -26,5 +26,10 @@
           E4
           D4
           B4,100
-        
+
+Пример использования:
+
+          https://github.com/user-attachments/assets/64f2c235-040f-4e3c-97ff-75ab60b450e0
+
+
 
