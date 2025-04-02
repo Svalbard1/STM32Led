@@ -29,7 +29,7 @@
 
 Пример использования:
 
-          https://github.com/user-attachments/assets/64f2c235-040f-4e3c-97ff-75ab60b450e0
+         <video src='https://1024terabox.com/s/11a-lcMxTFd21W8mfyAjHXQ' width=180/>
 
 
 
