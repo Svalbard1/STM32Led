@@ -29,7 +29,10 @@
 
 Пример использования:
 
-<video src='https://1024terabox.com/s/11a-lcMxTFd21W8mfyAjHXQ' width=180/>
+
+https://github.com/user-attachments/assets/5130e6d5-e6bd-49af-9705-a62c264a12b0
+
+
 
 
 
